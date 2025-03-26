@@ -2,7 +2,7 @@ Quantum Bot AI ChatBot
 
 QuantumBot is an AI-powered chatbot built using React and Vite. It utilizes Google's Gemini API to generate intelligent responses to user queries. The chatbot provides an interactive user experience with a clean UI and fast response times.
 
-🚀 Live Demo
+🚀 Live Demo:https://quantumbotai.netlify.app/
 
 Check out the deployed version: QuantumBot AI
 
