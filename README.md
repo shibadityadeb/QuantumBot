@@ -1,12 +1,12 @@
-#QuantumBot AI Chatbot
+Quantum Bot AI ChatBot
 
 QuantumBot is an AI-powered chatbot built using React and Vite. It utilizes Google's Gemini API to generate intelligent responses to user queries. The chatbot provides an interactive user experience with a clean UI and fast response times.
 
-##🚀 Live Demo
+🚀 Live Demo
 
 Check out the deployed version: QuantumBot AI
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 
 React.js - Frontend framework for building the UI
 
@@ -20,11 +20,11 @@ CSS - Styling for the user interface
 
 Netlify - Deployment platform
 
-##🤝 Contributing
+🤝 Contributing
 
 If you’d like to contribute, feel free to fork the repository and submit a pull request!
 
-##📜 License
+📜 License
 
 This project is licensed under the MIT License.
 
