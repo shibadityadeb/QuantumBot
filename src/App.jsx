@@ -11,7 +11,7 @@ function App() {
   async function generate_answer() {
     setAnswer("Loading...");
     try {
-      const API_KEY = "AIzaSyDER14pM8-z4e3WYsLoFuFVi67_uA39y90"; // API Key directly in the code (not recommended)
+      const API_KEY = "AIzaSyDER14pM8-z4e3WYsLoFuFVi67_uA39y90"; // API Key directly in the code 
       const response = await axios.post(
         `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`,
         {
